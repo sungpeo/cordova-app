@@ -36,3 +36,16 @@ cordova emulate android  # emulate android virtual device
 cordova emulate          # refreshes the emulator image to display the lastest application.
 ```
 
+## cordova serve
+Ref.
+https://cordova.apache.org/docs/en/latest/reference/cordova-cli/#cordova-serve-command
+
+Run a local web server for www/ assets using specified port for default of 8000. Access projects at: http://HOST_IP:PORT/PLATFORM/www
+
+ - I think this is the easiest way to test my app via corodva.
+
+```
+cordova serve [port]
+```
+
+

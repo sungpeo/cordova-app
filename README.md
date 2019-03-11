@@ -13,8 +13,11 @@
 ### Install pre-requisites for building
 Ref.
 https://cordova.apache.org/docs/en/latest/guide/cli/#install-pre-requisites-for-building
+https://medium.com/chequer/cordova-환경-구성-git-ignore-설정-61d057bd1b59
 
 ``` bash
+cordova prepare
+
 cordova requirements
 ```
 
